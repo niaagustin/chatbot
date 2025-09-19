@@ -1,3 +1,7 @@
+pypdf==5.0.0
+python-docx==1.1.2
+requests==2.32.3
+python-dateutil==2.9.0.post0
 streamlit
 openai
-pypdf2
+PyPDF2
